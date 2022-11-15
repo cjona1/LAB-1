@@ -125,7 +125,15 @@ Finalmente, completar la tabla con los resultados obtenidos:
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR.
 
-1.5.4 Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1
+1.5.1 Arme el circuito que se muestra en la figura 1.1 en Thinkercad.
+
+![image](https://user-images.githubusercontent.com/116817673/201936278-32f43ba1-52c8-4b7f-85c9-930a5f8dc2e9.png)
+
+Link del  circuito armado:
+
+https://www.tinkercad.com/things/2osO6Sug3sh-mighty-fyyran/editel?sharecode=28GWsWqPAW4TuYyaeAAvESMr53lw_nI423ylnwjegZI
+
+1.5.2 Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
 
 Tabla 1.1 Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
