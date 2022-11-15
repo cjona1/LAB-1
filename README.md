@@ -129,7 +129,8 @@ Finalmente, completar la tabla con los resultados obtenidos:
 
 Tabla 1.1 Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-![image](https://user-images.githubusercontent.com/116687152/201803979-186f2876-03a3-492d-b2de-b040781fd372.png)
+![image](https://user-images.githubusercontent.com/116817673/201930047-9a598a0e-a77e-4889-bd4f-504b0719e21e.png)
+
 
 1.5.3 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
 
@@ -141,14 +142,25 @@ Tabla 1.2 Verificacion de la LVK.
 
 1.5.4 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
 
-Tabla 1.3 Verificacion de la LCK
+![image](https://user-images.githubusercontent.com/117781491/201826964-7b62a17a-36b2-4513-8ec3-4cfc77cdaead.png)
 
+![image](https://user-images.githubusercontent.com/117781491/201829002-7faecba1-eeef-4d70-8371-2669b65d0289.png)
 
+![image](https://user-images.githubusercontent.com/117781491/201830714-524e4030-dfc2-4d2b-89c1-6acc6d3f8c15.png)
+
+![image](https://user-images.githubusercontent.com/117781491/201831279-2f625792-26a8-4fe2-b8c9-0d76abbd561e.png)
+
+Tabla 1.3. Verificación de la LCK.
+
+![image](https://user-images.githubusercontent.com/117781491/201827089-f3a69e8c-b9db-4f2f-ac18-4ff78f89fad1.png)
 
 1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 Calcular errores de las medidas y comentar los resultados.
 
+Se puede observar que en este caso los valores calculados analíticamente coincidieron con los valores medidos en el simulador en casi todos los nodos, por lo que el margen de error de error en este circuito es mínimo. Además podemos decir que la L.C.K. se cumplió en este circuito.
 Podemos decir que hemos verificado que las leyes Kirchhoff se cumplen el circuito planteado para el desarrollo del laboratorio y que los valores simulados coinciden con los calculados demostrando que la teoría va de la mano con la práctica.
+
+![image](https://user-images.githubusercontent.com/117781491/201827201-e7b1b92e-976f-4dcf-a862-ecc309684d07.png)
 
 Tambien podemos decir que los valores hallados poseen un error de 0% ya que en este caso el multímetro no presenta variación de medidas por ser simulado.
 
@@ -165,6 +177,14 @@ https://youtu.be/hiGNkd2tXUk
 •	En un circuito en paralelo, podemos decir que el voltaje es el mismo para cada elemento, mientras que la intensidad de corriente se reparte para las distintas direcciones del circuito, quedándonos que la suma algebraica de la intensidad de entrada y salida en los respectivos nodos siempre es cero.
 
 •	Podemos decir que la suma de las corrientes que entran a un nodo es igual a la suma de las corrientes que salen de dicho nodo y los voltajes de ingreso son iguales a la suma de las caídas de tensión dentro de una malla.
+
+•	Se pudo comprobar que la L.C.K. si se cumplió en el circuito, ya que la , se cumplió en casi todos los nodos, excepto en el nodo 3 y 4 con los valores medidos, donde el margen de error fue muy pequeño.
+
+•	Se consiguió demostrar que la L.V.K si se cumple en cada trayectoria cerrada del circuito, también se pudo ver que la sumatoria algebraica de los voltajes (tanto de fuentes como de caídas) es cero.
+
+•	Se observo que la corriente sigue una sola dirección, es decir sale del polo positivo de la fuente de energía y vuelve al polo negativo de la fuente, por lo que es necesario identificar la polaridad de los componentes en un circuito para poder realizar bien los cálculos, así como efectuar de forma correcta las mediciones de voltaje, corriente y resistencia.
+
+•	Se pudo ver en la simulación que la corriente en un circuito serie es constante, es decir es la misma, y que el voltaje es distinto en todo el circuito, ya que se divide en los componentes de dicho circuito.
 
 •	El desarrollo del laboratorio nos permitió afianzarnos más con los elementos que estaremos en contacto por nuestra carrera, lo que nos permitirá saber cómo usar dichos dispositivos para poder desarrollarnos de mejor manera en el ámbito profesional y educativo.
 
